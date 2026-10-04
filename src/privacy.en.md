@@ -21,7 +21,8 @@ an activity of this kind (Art. 37 GDPR).
 ## 2. In short
 
 - BeBurn can be used **without an account**: in that case your data stays on your phone
-  and is not sent to us.
+  and is not sent to us. The only exception is the answers you choose to give to BeBurn's
+  questions (section 3.3), which reach us without any data that identifies you.
 - If you create an account, we keep a copy of your data on our server, in a data centre
   in the European Union, so that it is not lost and you can find it again on another
   iPhone.
@@ -43,10 +44,9 @@ account:
 - your **Track** answers (how often you use a subscription or a fixed cost), the daily
   history of your costs, your commute details, the price of your vices, the Home layout
   and your budget;
-- your **answers to the launch questions** ("Is it useful?", the 10-day rating) and the
-  messages written in **Report a problem** or **Send us an idea**, until you send them.
-  When you send them, Mail opens with the message already filled in, and it reaches us
-  as an email (see section 3.3); the screenshot and the iPhone's technical details are
+- the messages written in **Report a problem** or **Send us an idea**, until you send
+  them. When you send them, Mail opens with the message already filled in, and it reaches
+  us as an email (see section 3.4); the screenshot and the iPhone's technical details are
   attached only if you choose to include them;
 - **notifications** (they are local: the app prepares them on your phone), **Face ID or
   Touch ID unlock** (handled by iOS: BeBurn never has access to your face or fingerprint)
@@ -90,7 +90,25 @@ sexual orientation or other special categories of personal data (Art. 9 GDPR). A
 choose the names of your expenses, we ask you not to include information of this kind in
 them.
 
-### 3.3 Email correspondence
+### 3.3 Answers to BeBurn's questions, with or without an account
+
+Every now and then BeBurn asks how you are getting on (the "Got two minutes for us?"
+question). Answering is optional, and you can turn the questions off in **Profile › App ›
+Questions from BeBurn**. If you answer, your answer is sent to us: the rating from 1 to 5,
+the features you picked as most useful, the text you write in "What's missing?" (optional,
+200 characters at most), and the date and time of the answer. The same applies to the
+answers already given to the first launch questions ("Is it useful?"), which stayed on the
+phone.
+
+- **With an account**, the answer is linked to your account.
+- **Without an account**, the answer reaches us without a name, email, or any phone or
+  installation identifier: we cannot link it to you, or to your other answers.
+
+Please do not write data that identifies you or personal information in "What's
+missing?". We use the answers only to understand what works and what to improve in
+BeBurn.
+
+### 3.4 Email correspondence
 
 If you email us, we keep your address and the content of your message solely in order to
 reply to you.
@@ -103,6 +121,7 @@ reply to you.
 | Keep a copy of your data and sync it across your iPhones | data you enter, registered payments | performance of the service (Art. 6(1)(b)) |
 | Delete your account and disconnect Sign in with Apple | Apple token | carrying out your request (Art. 6(1)(b)) |
 | Protect the service from abuse and fix faults | technical security data | our legitimate interest in the security of the service (Art. 6(1)(f) and Recital 49) |
+| Understand what works and what to improve in the app | answers to BeBurn's questions | our legitimate interest in improving the app (Art. 6(1)(f)): you answer only if you want to, and you can turn the questions off |
 | Reply to you when you write to us | email and message | carrying out your request (Art. 6(1)(b)) |
 | Comply with legal obligations and defend our rights | the data needed, case by case | legal obligation (Art. 6(1)(c)) or legitimate interest (Art. 6(1)(f)) |
 
@@ -131,6 +150,7 @@ such as the Freedom Hour, cannot be made.
 | Verification code | 10 minutes, or less after 5 failed attempts |
 | App session | access lasts 30 minutes and renews automatically; renewal remains valid for at most 30 days if you do not use the app, and ends immediately when you sign out |
 | Apple token, if you delete your account and Apple does not respond at that moment | in encrypted form and no longer linked to you, until Apple confirms the disconnection, and in any case for no more than about one month |
+| Answers to BeBurn's questions | 2 years from sending, then deleted automatically; with an account, also deleted immediately when you delete the account |
 | Technical security data (server logs) | 30 days at most |
 | Emails you send us | as long as needed to reply to you and close the request |
 | Data kept only on your phone | until you delete it from the app or uninstall BeBurn |
@@ -194,9 +214,12 @@ How to exercise them:
 - **Copy and portability:** **Profile › App › Download my data** generates, free of
   charge and for all users, a JSON file with all the data BeBurn holds about you:
   settings, salary, assets, routines, expenses, subscriptions, purchases, Track answers,
-  history and the Apple Pay payments received; with an account, the file also
+  history, the Apple Pay payments received and your answers to BeBurn's questions; with an account, the file also
   corresponds to the copy held on the server. With BeBurn Pro, **Export data (CSV)** is
   also available, to open your expenses with Numbers or Excel.
+- **Answers to BeBurn's questions:** with an account, they are deleted together with the
+  account. Those sent without an account are not linked to you and we cannot find them
+  (Art. 11 GDPR); they are deleted automatically after 2 years.
 - **Other requests** (changing the account email, restriction, objection): write to the
   address in section 1. We will reply within one month (Art. 12 GDPR); to verify your
   identity, we may ask you to write from the email address linked to the account.

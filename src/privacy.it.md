@@ -21,7 +21,9 @@ un'attività come questa la legge non lo richiede (art. 37 GDPR).
 ## 2. In breve
 
 - BeBurn si può usare **anche senza account**: in questo caso i tuoi dati restano sul
-  telefono e non ci vengono trasmessi.
+  telefono e non ci vengono trasmessi. Fanno eccezione solo le risposte che scegli di
+  darci alle domande di BeBurn (punto 3.3), che ci arrivano senza alcun dato che ti
+  identifichi.
 - Se crei un account, conserviamo una copia dei tuoi dati sul nostro server, in un data
   center nell'Unione europea, per evitarne la perdita e permetterti di ritrovarli su un
   altro iPhone.
@@ -43,10 +45,9 @@ account:
 - le risposte di **Monitora** (quante volte usi un abbonamento o una spesa fissa), lo
   storico giornaliero dei tuoi costi, i dati del tragitto casa-lavoro, il prezzo dei tuoi
   vizi, la disposizione della Home e il budget;
-- le **risposte alle domande del lancio** («Ti è utile?», il voto dei 10 giorni) e i
-  messaggi scritti in **Segnala un problema** o **Scrivici un'idea**, finché non li
+- i messaggi scritti in **Segnala un problema** o **Scrivici un'idea**, finché non li
   invii. Al momento dell'invio si apre Mail con il messaggio già compilato, che ci
-  arriva come email (vedi il punto 3.3); lo screenshot e le informazioni tecniche
+  arriva come email (vedi il punto 3.4); lo screenshot e le informazioni tecniche
   dell'iPhone sono allegati solo se scegli di farlo;
 - le **notifiche** (sono locali: le prepara l'app sul telefono), lo **sblocco con Face ID
   o Touch ID** (gestito da iOS: BeBurn non ha mai accesso al tuo volto né alla tua
@@ -91,7 +92,23 @@ politiche, orientamento sessuale o ad altre categorie particolari di dati person
 (art. 9 GDPR). Poiché i nomi delle spese li scegli tu, ti chiediamo di non inserirvi
 informazioni di questo tipo.
 
-### 3.3 Comunicazioni via email
+### 3.3 Risposte alle domande di BeBurn, con o senza account
+
+Ogni tanto BeBurn ti chiede come ti stai trovando (la domanda «Due minuti per noi?»).
+Rispondere è facoltativo, e puoi spegnere le domande in **Profilo › App › Domande di
+BeBurn**. Se rispondi, la risposta ci viene inviata: il voto da 1 a 5, le funzioni che
+hai scelto come più utili, il testo che scrivi in «Cosa manca?» (facoltativo, al massimo
+200 caratteri), la data e l'ora della risposta. Lo stesso vale per le risposte già date
+alle prime domande del lancio («Ti è utile?»), che restavano sul telefono.
+
+- **Con un account**, la risposta è collegata al tuo account.
+- **Senza account**, la risposta ci arriva senza nome, email, identificativi del
+  telefono o dell'installazione: non possiamo collegarla a te, né ad altre tue risposte.
+
+Ti chiediamo di non scrivere in «Cosa manca?» dati che ti identificano o informazioni
+personali. Usiamo le risposte solo per capire cosa funziona e cosa migliorare in BeBurn.
+
+### 3.4 Comunicazioni via email
 
 Se ci scrivi via email, conserviamo il tuo indirizzo e il contenuto del messaggio al solo
 scopo di risponderti.
@@ -104,6 +121,7 @@ scopo di risponderti.
 | Conservare una copia dei tuoi dati e sincronizzarli fra i tuoi iPhone | dati che inserisci, pagamenti registrati | esecuzione del servizio (art. 6.1.b) |
 | Eliminare l'account e scollegare Accedi con Apple | token di Apple | esecuzione della tua richiesta (art. 6.1.b) |
 | Proteggere il servizio da abusi e correggere i malfunzionamenti | dati tecnici di sicurezza | nostro legittimo interesse alla sicurezza del servizio (art. 6.1.f e considerando 49) |
+| Capire cosa funziona e cosa migliorare nell'app | risposte alle domande di BeBurn | nostro legittimo interesse a migliorare l'app (art. 6.1.f): rispondi solo se vuoi, e puoi spegnere le domande |
 | Risponderti quando ci scrivi | email e messaggio | esecuzione della tua richiesta (art. 6.1.b) |
 | Adempiere agli obblighi di legge e difendere i nostri diritti | i dati necessari, caso per caso | obbligo di legge (art. 6.1.c) o legittimo interesse (art. 6.1.f) |
 
@@ -133,6 +151,7 @@ alcuni calcoli, come la Freedom Hour, non possono essere eseguiti.
 | Codice di verifica | 10 minuti, o meno in caso di 5 tentativi errati |
 | Sessione nell'app | l'accesso dura 30 minuti e si rinnova automaticamente; il rinnovo resta valido al massimo 30 giorni se non usi l'app e termina immediatamente quando esci dall'account |
 | Token di Apple, se elimini l'account e in quel momento Apple non risponde | in forma cifrata e non più associato a te, fino alla conferma dello scollegamento da parte di Apple, e comunque al massimo per circa un mese |
+| Risposte alle domande di BeBurn | 2 anni dall'invio, poi cancellate automaticamente; con un account, cancellate subito anche se elimini l'account |
 | Dati tecnici di sicurezza (log del server) | al massimo 30 giorni |
 | Email che ci invii | il tempo necessario a risponderti e a chiudere la richiesta |
 | Dati conservati solo sul telefono | finché non li cancelli dall'app o non disinstalli BeBurn |
@@ -198,9 +217,12 @@ Come esercitarli:
 - **Copia e portabilità:** **Profilo › App › Scarica i miei dati** genera, gratuitamente
   e per tutti gli utenti, un file JSON con tutti i dati che BeBurn conserva su di te:
   impostazioni, stipendio, beni, routine, spese, abbonamenti, acquisti, risposte di
-  Monitora, storico e pagamenti Apple Pay ricevuti; con un account, il file corrisponde
+  Monitora, storico, pagamenti Apple Pay ricevuti e risposte alle domande di BeBurn; con un account, il file corrisponde
   anche alla copia conservata sul server. Con BeBurn Pro è disponibile inoltre **Esporta
   i dati (CSV)**, per aprire le spese con Numbers o Excel.
+- **Risposte alle domande di BeBurn:** con un account si cancellano insieme all'account.
+  Quelle inviate senza account non sono collegate a te e non possiamo ritrovarle (art. 11
+  GDPR); si cancellano da sole dopo 2 anni.
 - **Altre richieste** (modifica dell'email dell'account, limitazione, opposizione): scrivi
   all'indirizzo indicato al punto 1. Ti risponderemo entro un mese (art. 12 GDPR); per
   verificare la tua identità potremmo chiederti di scriverci dall'indirizzo email
