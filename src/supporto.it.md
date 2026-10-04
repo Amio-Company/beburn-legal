@@ -1,53 +1,56 @@
 # Supporto
 
-Scrivici a **info@amiocompany.com**: rispondiamo di solito entro due giorni
-lavorativi. Dall'app puoi anche usare **Profilo › Aiuto › Segnala un problema**.
+Scrivici a **info@amiocompany.com**: di solito rispondiamo entro due giorni lavorativi.
+Dall'app puoi anche usare **Profilo › Aiuto › Segnala un problema**.
 
 ## Domande frequenti
 
 ### Mi serve un account?
 
-No. BeBurn funziona anche senza: i dati restano solo su questo iPhone, e se cancelli l'app li
-perdi. Con un account ne teniamo una copia sul nostro server e li ritrovi su un altro iPhone.
-Puoi crearlo quando vuoi da Profilo.
+No. BeBurn funziona anche senza account: i dati restano solo su questo iPhone e, se
+elimini l'app, vanno persi. Con un account ne conserviamo una copia sul nostro server e
+puoi ritrovarli su un altro iPhone. Puoi crearlo in qualsiasi momento da Profilo.
 
-### Non mi arriva il codice di verifica
+### Non ricevo il codice di verifica
 
-Controlla la cartella dello spam e che l'indirizzo sia scritto bene; dopo un minuto puoi
-chiederne uno nuovo. Il codice vale 10 minuti. Se ancora non arriva, scrivici.
+Controlla la cartella della posta indesiderata e che l'indirizzo sia scritto
+correttamente; dopo un minuto puoi richiedere un nuovo codice. Il codice è valido 10
+minuti. Se ancora non lo ricevi, scrivici.
 
 ### Ho cambiato telefono
 
-Installa BeBurn ed entra con lo stesso account: le spese tornano dal server. Senza account i
-dati restano sul telefono vecchio.
+Installa BeBurn e accedi con lo stesso account: le spese vengono recuperate dal server.
+Senza account, i dati restano sul telefono precedente.
 
 ### Come scarico i miei dati?
 
-**Profilo › App › Scarica i miei dati** crea un file con tutto quello che BeBurn tiene di te.
-È gratis, per tutti.
+**Profilo › App › Scarica i miei dati** crea un file con tutti i dati che BeBurn conserva
+su di te. La funzione è gratuita e disponibile per tutti.
 
 ### Come elimino l'account?
 
-Nell'app: **Profilo › App › Elimina l'account**. Si cancellano l'account e le spese, sul server
-e sul telefono. Senza account: **Profilo › App › Cancella i dati e ricomincia**.
+Nell'app: **Profilo › App › Elimina l'account**. L'account e le spese vengono cancellati,
+sul server e sul telefono. Senza account: **Profilo › App › Cancella i dati e
+ricomincia**.
 
 ### Come annullo l'abbonamento o chiedo un rimborso?
 
-Gli abbonamenti li gestisce Apple: si annullano da **Impostazioni › il tuo nome ›
-Abbonamenti**, e i rimborsi si chiedono ad Apple su <https://reportaproblem.apple.com>.
+Gli abbonamenti sono gestiti da Apple: puoi annullarli da **Impostazioni › il tuo nome ›
+Abbonamenti** e chiedere un rimborso ad Apple su <https://reportaproblem.apple.com>.
 Eliminare l'app o l'account non annulla l'abbonamento.
 
 ### I pagamenti con Apple Pay non arrivano
 
-BeBurn riceve un pagamento solo se hai impostato l'automazione di Comandi con la guida
-nell'app (**Profilo**, card Apple Pay › **Configura l'automazione**): è l'automazione, che imposti tu, a passare a BeBurn importo
-ed esercente. BeBurn non legge il Wallet. Controlla che l'automazione sia attiva e che parta
-senza chiedere conferma.
+BeBurn riceve un pagamento solo se hai configurato l'automazione di Comandi seguendo la
+guida nell'app (**Profilo**, card Apple Pay › **Configura l'automazione**): è
+l'automazione, configurata da te, a trasmettere a BeBurn importo ed esercente. BeBurn non
+legge il Wallet. Controlla che l'automazione sia attiva e che venga eseguita senza
+chiedere conferma.
 
 ### Il widget non si aggiorna
 
-Apri BeBurn una volta: il widget prende i dati dall'app. Se ancora non cambia, toglilo e
-rimettilo.
+Apri BeBurn almeno una volta: il widget riceve i dati dall'app. Se ancora non si
+aggiorna, rimuovilo e aggiungilo di nuovo.
 
 ## Privacy e termini
 

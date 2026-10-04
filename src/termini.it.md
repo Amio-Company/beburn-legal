@@ -2,124 +2,146 @@
 
 Ultimo aggiornamento: 4 ottobre 2026
 
-## 1. Chi offre BeBurn
+## 1. Chi offre BeBurn e accettazione dei termini
 
-BeBurn è offerta da **Vincenzo Morelli** («noi»). Per scriverci: **info@amiocompany.com**.
+BeBurn è offerta da **Vincenzo Morelli** («noi»), che puoi contattare all'indirizzo
+**info@amiocompany.com**.
 
 Scaricando e usando BeBurn accetti questi termini e il
 [contratto di licenza standard di Apple (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/),
-che regola la licenza di tutte le app dell'App Store. Se i due testi dicono cose diverse sulla
-licenza dell'app, vale l'EULA di Apple. Come trattiamo i tuoi dati lo spiega
-l'[informativa sulla privacy](../privacy/).
+che regola la licenza di tutte le app dell'App Store. In caso di contrasto fra i due testi
+sulla licenza dell'app, prevale l'EULA di Apple. Il trattamento dei tuoi dati personali è
+descritto nell'[informativa sulla privacy](../privacy/).
 
-## 2. Cosa fa BeBurn
+## 2. Definizioni
 
-BeBurn trasforma le spese che inserisci (beni, routine, abbonamenti, acquisti, vizi) in un costo
-al giorno e lo confronta con quello che guadagni: il costo della giornata, la Freedom Hour, le
-ore di lavoro, i caffè. Sono **stime**: si basano solo sui dati che scrivi tu e su formule
-semplificate. Se i dati sono incompleti o sbagliati, lo sono anche i risultati.
+In questi termini:
 
-## 3. Non è una consulenza
+- **«BeBurn»** o **«l'app»** è l'applicazione BeBurn per iPhone, compresi i suoi widget;
+- **«servizio»** sono le funzioni offerte tramite l'app, compresa, se crei un account, la
+  conservazione di una copia dei tuoi dati sul nostro server;
+- **«account»** è l'account facoltativo che puoi creare nell'app;
+- **«BeBurn Pro»** è l'abbonamento facoltativo a pagamento, venduto e gestito da Apple,
+  descritto al punto 9;
+- **«tu»** o **«utente»** è la persona che scarica e usa BeBurn;
+- **«noi»** è Vincenzo Morelli, indicato al punto 1.
 
-BeBurn non offre consulenza finanziaria, di investimento, fiscale o legale, e non è un servizio
-bancario o di pagamento. Le cifre e i suggerimenti servono a farti un'idea: per decisioni
-importanti rivolgiti a un professionista.
+## 3. Oggetto del servizio
 
-## 4. Chi può usarla
+BeBurn trasforma le spese che inserisci (beni, routine, abbonamenti, acquisti, vizi) in un
+costo al giorno e lo confronta con quanto guadagni: il costo della giornata, la Freedom
+Hour, le ore di lavoro, i caffè. I risultati sono **stime**, basate esclusivamente sui dati
+che inserisci e su formule semplificate. Se i dati sono incompleti o errati, lo sono anche
+i risultati.
 
-BeBurn è pensata per chi ha almeno 14 anni. Se hai meno di 18 anni, usala con il permesso di un
-genitore.
+## 4. Esclusione di consulenza
 
-## 5. Account
+BeBurn non fornisce consulenza finanziaria, di investimento, fiscale o legale, e non è un
+servizio bancario o di pagamento. Le cifre e i suggerimenti hanno solo valore indicativo:
+per decisioni importanti rivolgiti a un professionista.
 
-L'account è facoltativo: senza, i dati restano solo sul tuo iPhone. Se lo crei, scegli una
-password che usi solo qui e tienila per te: sei responsabile di quello che succede con il tuo
-account. Se pensi che qualcun altro lo usi, scrivici. Puoi eliminare l'account quando vuoi
-dall'app (**Profilo › App › Elimina l'account**): si cancellano l'account e i dati, sul server e
-sul telefono.
+## 5. Requisiti di età
 
-## 6. I tuoi dati restano tuoi
+BeBurn è destinata a chi ha almeno 14 anni. Se hai meno di 18 anni, puoi usarla con il
+permesso di un genitore.
 
-Quello che inserisci in BeBurn è tuo. Ci dai solo il permesso di conservarlo e usarlo per
-farti funzionare l'app (per esempio per tenerne una copia e ritrovarla su un altro iPhone), come
-descritto nell'informativa sulla privacy. Puoi scaricarne una copia quando vuoi da **Profilo ›
-App › Scarica i miei dati**.
+## 6. Account
 
-## 7. Uso corretto
+L'account è facoltativo: senza account, i dati restano solo sul tuo iPhone. Se crei un
+account, devi scegliere una password che usi solo per BeBurn e mantenerla riservata: sei
+responsabile dell'uso del tuo account. Se ritieni che altri lo stiano usando, scrivici.
+Puoi eliminare l'account in qualsiasi momento dall'app (**Profilo › App › Elimina
+l'account**): l'account e i dati vengono cancellati, sul server e sul telefono.
+
+## 7. Titolarità dei tuoi dati
+
+I dati che inserisci in BeBurn restano tuoi. Ci concedi soltanto il permesso di
+conservarli e usarli per far funzionare l'app per te (per esempio per conservarne una
+copia e permetterti di ritrovarla su un altro iPhone), come descritto nell'informativa
+sulla privacy. Puoi scaricarne una copia in qualsiasi momento da **Profilo › App ›
+Scarica i miei dati**.
+
+## 8. Uso corretto
 
 Usando BeBurn ti impegni a non:
 
-- tentare di accedere all'account o ai dati di altre persone, o ai nostri sistemi oltre quello
-  che l'app ti permette;
+- tentare di accedere all'account o ai dati di altre persone, o ai nostri sistemi oltre
+  quanto l'app ti consente;
 - sovraccaricare o disturbare il servizio, per esempio con richieste automatiche;
 - usare BeBurn per scopi illeciti;
-- copiare, modificare o redistribuire l'app, salvo quanto la legge ti consente comunque.
+- copiare, modificare o redistribuire l'app, salvo quanto la legge ti consente in ogni
+  caso.
 
-## 8. Funzioni gratuite e BeBurn Pro
+## 9. Funzioni gratuite e BeBurn Pro
 
-Oggi, durante il lancio, tutte le funzioni sono gratuite. Più avanti alcune funzioni potranno
-richiedere l'abbonamento **BeBurn Pro**: te lo diremo nell'app prima che succeda, e quelle che
-usi gratis oggi non spariranno senza preavviso.
+Attualmente, durante il lancio, tutte le funzioni sono gratuite. In futuro alcune funzioni
+potranno richiedere l'abbonamento **BeBurn Pro**: te ne daremo notizia nell'app prima che
+accada, e le funzioni che oggi usi gratuitamente non verranno rimosse senza preavviso.
 
 Se ti abboni:
 
-- l'abbonamento lo vende e lo gestisce Apple: prezzo e durata li vedi prima di confermare,
-  il pagamento è addebitato sul tuo Apple ID;
-- si **rinnova da solo** alla scadenza, allo stesso prezzo, a meno che tu non lo annulli almeno
-  24 ore prima della fine del periodo in corso;
-- lo gestisci e lo annulli da **Impostazioni › il tuo nome › Abbonamenti**; annullandolo resta
-  attivo fino alla fine del periodo già pagato;
-- se c'è una prova gratuita, alla fine si trasforma in abbonamento a pagamento, a meno che tu
-  non la annulli prima; la parte di prova non usata decade se ti abboni prima che finisca;
-- rimborsi e diritto di recesso seguono le condizioni di Apple, che ti vende l'abbonamento: si
-  chiedono a Apple, su <https://reportaproblem.apple.com>.
+- l'abbonamento è venduto e gestito da Apple: prezzo e durata ti sono mostrati prima della
+  conferma, e il pagamento è addebitato sul tuo Apple ID;
+- l'abbonamento **si rinnova automaticamente** alla scadenza, allo stesso prezzo, salvo
+  che tu lo annulli almeno 24 ore prima della fine del periodo in corso;
+- puoi gestirlo e annullarlo da **Impostazioni › il tuo nome › Abbonamenti**; in caso di
+  annullamento, resta attivo fino alla fine del periodo già pagato;
+- se è prevista una prova gratuita, al termine si trasforma in abbonamento a pagamento,
+  salvo che tu la annulli prima; la parte di prova non utilizzata decade se ti abboni
+  prima della sua scadenza;
+- rimborsi e diritto di recesso sono regolati dalle condizioni di Apple, che ti vende
+  l'abbonamento, e vanno richiesti ad Apple su <https://reportaproblem.apple.com>.
 
-Eliminare l'account o l'app non annulla l'abbonamento: va annullato anche da Impostazioni.
+L'eliminazione dell'account o dell'app non annulla l'abbonamento, che va annullato anche
+da Impostazioni.
 
-## 9. Proprietà intellettuale
+## 10. Proprietà intellettuale
 
-L'app, il nome BeBurn, il marchio, i testi, la grafica e il codice sono nostri o usati con
-licenza. L'EULA di Apple ti dà il diritto di usare l'app sui tuoi dispositivi; nient'altro ti
-viene ceduto. Apple, Apple Pay, Face ID, iPhone e App Store sono marchi di Apple Inc.
+L'app, il nome BeBurn, il marchio, i testi, la grafica e il codice sono di nostra
+proprietà o usati su licenza. L'EULA di Apple ti concede il diritto di usare l'app sui
+tuoi dispositivi; nessun altro diritto ti viene ceduto. Apple, Apple Pay, Face ID, iPhone
+e App Store sono marchi di Apple Inc.
 
-## 10. Disponibilità e cambiamenti del servizio
+## 11. Disponibilità e modifiche del servizio
 
-Facciamo il possibile perché BeBurn funzioni sempre, ma il servizio può avere interruzioni,
-per esempio per manutenzione o per guasti dei fornitori. Possiamo migliorare, cambiare o
-togliere funzioni; se un cambiamento ti toglie qualcosa che hai pagato, te lo diciamo prima.
-Se un giorno chiudessimo il servizio, ti avviseremo con almeno 30 giorni di anticipo, così
-potrai scaricare i tuoi dati.
+Facciamo il possibile per garantire il funzionamento continuo di BeBurn, ma il servizio
+può subire interruzioni, per esempio per manutenzione o per guasti dei fornitori. Possiamo
+migliorare, modificare o rimuovere funzioni; se una modifica ti priva di qualcosa che hai
+pagato, te lo comunicheremo in anticipo. Se un giorno dovessimo chiudere il servizio, ti
+avviseremo con almeno 30 giorni di anticipo, così da permetterti di scaricare i tuoi dati.
 
-## 11. Responsabilità
+## 12. Responsabilità
 
-Rispondiamo dei danni causati da nostro dolo o colpa grave e in tutti gli altri casi in cui la
-legge non permette di limitare la responsabilità (art. 1229 del Codice civile), compresi i
-diritti che il Codice del consumo (D.lgs. 206/2005) riconosce ai consumatori, che questi
-termini non limitano in nessun modo.
+Rispondiamo dei danni causati da nostro dolo o colpa grave e in tutti gli altri casi in
+cui la legge non consente di limitare la responsabilità (art. 1229 del Codice civile),
+compresi i diritti che il Codice del consumo (D.lgs. 206/2005) e la legge del tuo paese
+riconoscono ai consumatori, che questi termini non limitano in alcun modo.
 
-Fuori da questi casi, e nei limiti consentiti dalla legge, non rispondiamo delle decisioni che
-prendi sulla base delle stime di BeBurn, né dei danni causati da dati inseriti in modo errato,
-da interruzioni non dipendenti da noi o dall'uso dell'app in modo contrario a questi termini.
+Al di fuori di questi casi, e nei limiti consentiti dalla legge, non rispondiamo delle
+decisioni che prendi sulla base delle stime di BeBurn, né dei danni causati da dati
+inseriti in modo errato, da interruzioni non dipendenti da noi o da un uso dell'app
+contrario a questi termini.
 
-## 12. Sospensione
+## 13. Sospensione e chiusura dell'account
 
-Puoi smettere di usare BeBurn quando vuoi. Possiamo sospendere o chiudere un account che viola
-in modo grave questi termini o la legge, dopo averti avvisato quando è possibile; in quel caso
-ti lasciamo il tempo di scaricare i tuoi dati, salvo che la legge ce lo impedisca.
+Puoi smettere di usare BeBurn in qualsiasi momento. Possiamo sospendere o chiudere un
+account che violi gravemente questi termini o la legge, previo avviso quando possibile; in
+tal caso ti lasciamo il tempo di scaricare i tuoi dati, salvo che la legge ce lo impedisca.
 
-## 13. Modifiche a questi termini
+## 14. Modifiche a questi termini
 
-Se cambiamo questi termini aggiorniamo la data in alto. Se il cambiamento è importante te lo
-diciamo nell'app prima che si applichi; se non sei d'accordo puoi smettere di usare BeBurn ed
-eliminare l'account.
+Se modifichiamo questi termini, aggiorniamo la data indicata in alto. Se la modifica è
+rilevante, te ne daremo notizia nell'app prima che si applichi; se non la accetti, puoi
+smettere di usare BeBurn ed eliminare l'account.
 
-## 14. Legge applicabile e controversie
+## 15. Legge applicabile e foro competente
 
-Questi termini sono regolati dalla legge italiana. Se sei un consumatore restano validi i
-diritti che ti riconosce la legge del paese in cui vivi, e per le controversie è competente il
-giudice del luogo in cui risiedi o hai il domicilio (art. 66-bis del Codice del consumo).
-Prima di arrivare a tanto, scrivici: proviamo a risolvere insieme.
+Questi termini sono regolati dalla legge italiana. Se sei un consumatore, restano salvi i
+diritti che ti riconosce la legge del paese in cui vivi, e per le controversie è
+competente il giudice del luogo in cui risiedi o hai il domicilio (art. 66-bis del Codice
+del consumo). Prima di avviare una controversia, ti invitiamo a scriverci per cercare una
+soluzione amichevole.
 
-## 15. Contatti
+## 16. Contatti
 
 **info@amiocompany.com**
